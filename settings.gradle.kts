@@ -13,4 +13,4 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "MyFoodList"
-include(":app")
+include(":myfoodlist")
