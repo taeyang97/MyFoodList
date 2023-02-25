@@ -14,3 +14,5 @@ dependencyResolutionManagement {
 }
 rootProject.name = "MyFoodList"
 include(":myfoodlist")
+include(":feature")
+include(":feature:foodList")
